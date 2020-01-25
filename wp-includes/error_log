@@ -1,0 +1,1 @@
+[28-Aug-2019 01:30:10 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/e3devpuser/public_html/wp-includes/rss-functions.php on line 8

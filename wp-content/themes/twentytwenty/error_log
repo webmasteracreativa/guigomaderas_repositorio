@@ -1,0 +1,4 @@
+[20-Jan-2020 23:48:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/guigomaderas/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/guigomaderas/public_html/wp-content/themes/twentytwenty/404.php on line 10

@@ -1,0 +1,6 @@
+[15-Jul-2018 16:36:35 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/guigomaderas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[15-Jul-2018 16:36:38 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/guigomaderas/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[03-Sep-2018 07:07:22 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/guigomaderas/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[04-Sep-2018 06:24:12 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/guigomaderas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[03-May-2019 21:30:00 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home/guigomaderas/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[03-May-2019 21:30:01 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home/guigomaderas/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10

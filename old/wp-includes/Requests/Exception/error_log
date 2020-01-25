@@ -1,0 +1,6 @@
+[10-Aug-2018 21:33:29 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/guigomaderas/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[10-Aug-2018 21:33:36 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/guigomaderas/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[26-Sep-2018 06:54:11 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/guigomaderas/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[26-Sep-2018 11:18:36 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/guigomaderas/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[01-May-2019 02:51:29 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/guigomaderas/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[01-May-2019 02:55:47 America/Chicago] PHP Fatal error:  Class 'Requests_Exception' not found in /home/guigomaderas/public_html/wp-includes/Requests/Exception/Transport.php on line 3

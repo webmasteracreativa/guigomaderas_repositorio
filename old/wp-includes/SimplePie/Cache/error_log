@@ -1,0 +1,12 @@
+[16-Jul-2018 18:27:55 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[16-Jul-2018 18:28:06 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[16-Jul-2018 18:28:12 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[16-Jul-2018 18:28:18 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[09-Sep-2018 03:51:12 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[26-Sep-2018 00:32:09 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[26-Sep-2018 03:17:55 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[26-Sep-2018 06:02:00 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[03-May-2019 21:32:21 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[03-May-2019 21:32:27 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[03-May-2019 21:32:28 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[03-May-2019 21:36:42 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/guigomaderas/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59

@@ -1,0 +1,1 @@
+[17-Sep-2019 18:24:39 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/e3devpuser/public_html/wp-content/plugins/hello.php on line 69

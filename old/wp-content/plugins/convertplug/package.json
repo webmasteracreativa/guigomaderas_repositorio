@@ -1,0 +1,29 @@
+{
+  "name": "convertplug",
+  "version": "1.0.0",
+  "description": "The new Game Changer WordPress plugin to convert visitors into customers.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "moment-timezone": "^0.5.11"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "~2.0.0",
+    "grunt-contrib-uglify": "~2.2.0",
+    "shelljs": "~0.7.7",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-compress": "^1.4.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-wp-i18n": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.brainstormforce.com:wp-sharks/convertplug.git"
+  },
+  "author": "Brainstorm Force",
+  "license": "ISC"
+}

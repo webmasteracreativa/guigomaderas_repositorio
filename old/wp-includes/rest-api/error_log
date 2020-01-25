@@ -1,0 +1,4 @@
+[17-Jul-2018 03:30:24 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/guigomaderas/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[07-Aug-2018 16:00:43 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/guigomaderas/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[01-Sep-2018 00:03:24 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/guigomaderas/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[29-Apr-2019 10:46:02 America/Chicago] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/guigomaderas/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

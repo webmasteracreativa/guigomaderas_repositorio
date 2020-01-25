@@ -1,0 +1,12 @@
+[25-Oct-2018 21:16:43 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[25-Oct-2018 23:26:50 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 01:15:05 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 03:43:23 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 04:43:45 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 04:52:26 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 06:03:39 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 08:23:50 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 10:36:16 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[26-Oct-2018 15:56:16 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[09-Nov-2018 05:16:53 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[09-Nov-2018 06:57:05 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/guigomaderas/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

@@ -1,0 +1,440 @@
+# Translation of Plugins - WAme chat - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WAme chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-13 19:02:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WAme chat - Stable (latest release)\n"
+
+#: admin/class-whatsappme-admin.php:532
+msgid "Add links, images, videos and more with %s"
+msgstr "Añade enlaces, imágenes, vídeos y más con %s"
+
+#: admin/class-whatsappme-admin.php:424
+msgid "If you define a \"Call to Action\" a window will be displayed simulating a chat before launching WhatsApp."
+msgstr "Si defines una \"Llamada a la acción\" se mostrará una ventana simulando un chat antes de iniciar WhatsApp."
+
+#: admin/class-whatsappme-admin.php:425
+msgid "You can introduce yourself, offer help or even make promotions to your users."
+msgstr "Puedes presentarte, ofrecer ayuda o incluso hacer promociones a tus usuarios."
+
+#: admin/class-whatsappme-wooadmin.php:147
+msgid "Call to Action for Products"
+msgstr "Llamada a la acción para productos"
+
+#: admin/class-whatsappme-wooadmin.php:148
+msgid "Call to Action for Products on Sale"
+msgstr "Llamada a la acción para productos en oferta"
+
+#: admin/class-whatsappme-wooadmin.php:149
+msgid "Message for Products"
+msgstr "Mensaje para productos"
+
+#: admin/class-whatsappme-wooadmin.php:223
+msgid "Define a text for your products to encourage customers to contact"
+msgstr "Define un texto para tus productos que anime a los clientes a contactar"
+
+#: admin/class-whatsappme-wooadmin.php:230
+msgid "Define a text for your products on sale to encourage customers to contact"
+msgstr "Define un texto para tus productos en oferta que anime a los clientes a contactar"
+
+#: admin/class-whatsappme-wooadmin.php:277
+msgid "For the <strong>Call to Action for Products on Sale</strong>, you can also use:"
+msgstr "Para la <strong>Llamada a la acción para productos en oferta</strong> también puedes usar:"
+
+#: admin/class-whatsappme-wooadmin.php:228
+msgid ""
+"Save {DISCOUNT}! This *{PRODUCT}* can be yours for only ~{REGULAR}~ *{PRICE}*.\n"
+"If you have any questions, ask us."
+msgstr ""
+"¡Ahorra {DISCOUNT}! Este *{PRODUCT}* puede ser tuyo solo por ~{REGULAR}~ *{PRICE}*.\n"
+"Si tienes alguna duda, pregúntanos."
+
+#: admin/class-whatsappme-admin.php:548
+msgid "seconds (0 disabled)"
+msgstr "segundos (0 desactivado)"
+
+#: admin/class-whatsappme-admin.php:509
+msgid "The image will alternate with WhatsApp logo"
+msgstr "La imagen se alternará con el logotipo de WhatsApp"
+
+#: admin/class-whatsappme-admin.php:508
+msgid "Remove"
+msgstr "Eliminar"
+
+#: admin/class-whatsappme-admin.php:507
+msgid "Use image"
+msgstr "Usar imagen"
+
+#: admin/class-whatsappme-admin.php:251 admin/class-whatsappme-admin.php:553
+msgid "Notification Balloon"
+msgstr "Globo de aviso"
+
+#: admin/class-whatsappme-admin.php:249
+msgid "Start WhatsApp Button"
+msgstr "Botón de inicio de WhatsApp"
+
+#: admin/class-whatsappme-admin.php:506
+msgid "Select an image"
+msgstr "Selecciona imagen"
+
+#: admin/class-whatsappme-admin.php:507
+msgid "Select button image"
+msgstr "Selecciona imagen de botón"
+
+#: admin/class-whatsappme-admin.php:513
+msgid "💬 Need help?"
+msgstr "💬  ¿Necesitas ayuda?"
+
+#: admin/class-whatsappme-admin.php:514
+msgid "Short text shown next to WhatsApp button"
+msgstr "Texto breve que se muestra junto al botón de WhatsApp"
+
+#: admin/class-whatsappme-admin.php:530
+msgid "Define a text to encourage users to contact by WhatsApp"
+msgstr "Define un texto para animar a los usuarios a contactar por WhatsApp"
+
+#: admin/class-whatsappme-admin.php:539
+msgid "Predefined text for the first message the user will send you"
+msgstr "Texto predefinido para el primer mensaje que te enviará el usuario"
+
+#: public/class-whatsappme-public.php:102 admin/class-whatsappme-admin.php:116
+#: admin/class-whatsappme-admin.php:543
+msgid "Open chat"
+msgstr "Abrir chat"
+
+#: admin/class-whatsappme-admin.php:544
+msgid "Text of the start WhatsApp button on Chat Window"
+msgstr "Texto del botón de inicio de WhatsApp en la ventana de chat"
+
+#: admin/class-whatsappme-admin.php:549
+msgid "Chat Window is automatically displayed after delay"
+msgstr "La ventana de chat se muestra automáticamente tras el retardo"
+
+#: admin/class-whatsappme-wooadmin.php:236
+msgid "Predefined text for the first message the client will send you"
+msgstr "Texto predefinido para el primer mensaje que te enviará el cliente"
+
+#: admin/class-whatsappme-admin.php:242
+msgid "Image"
+msgstr "Imágen"
+
+#: admin/class-whatsappme-admin.php:243
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#. Plugin Name of the plugin
+#: admin/class-whatsappme-admin.php:739
+msgid "WAme chat"
+msgstr "WAme chat"
+
+#: admin/class-whatsappme-wooadmin.php:273
+msgid "Product Name"
+msgstr "Nombre de producto"
+
+#: admin/class-whatsappme-wooadmin.php:271
+msgid "<strong>WooCommerce</strong>, in product pages you can also use:"
+msgstr "<strong>WooCommerce</strong>, en las páginas de producto también puedes usar:"
+
+#: admin/class-whatsappme-wooadmin.php:235
+msgid ""
+"*Hi {SITE}!*\n"
+"I have a question about *{PRODUCT} ({SKU})*"
+msgstr ""
+"*¡Hola {SITE}!*\n"
+"Tengo una pregunta sobre *{PRODUCT} ({SKU})*"
+
+#: admin/class-whatsappme-wooadmin.php:221
+msgid ""
+"This *{PRODUCT}* can be yours for only *{PRICE}*!\n"
+"If you have any questions, ask us."
+msgstr ""
+"¡Este *{PRODUCT}* puede ser tuyo solo por *{PRICE}*!\n"
+"Si tienes alguna duda, pregúntanos."
+
+#: admin/class-whatsappme-wooadmin.php:197
+msgid "You can define other different texts for the Chat Window on the product pages."
+msgstr "Puedes definir otros textos diferentes para la ventana de chat en las páginas de producto."
+
+#: admin/class-whatsappme-wooadmin.php:195
+msgid "Product Chat Window"
+msgstr "Ventana de chat de producto"
+
+#: admin/class-whatsappme-wooadmin.php:191
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/class-whatsappme-admin.php:653
+msgid "Or rate us on %s."
+msgstr "O pon una valoración en %s."
+
+#: admin/class-whatsappme-admin.php:649
+msgid "Learn from our tutorials on %s."
+msgstr "Aprende de nuestros tutoriales en %s."
+
+#: admin/class-whatsappme-admin.php:645
+msgid "Subscribe to our newsletter and our blog at %s."
+msgstr "Suscríbete a nuestra newsletter y nuestro blog en %s."
+
+#: admin/class-whatsappme-admin.php:642
+msgid "If you like WAme 😍"
+msgstr "Si te gusta WAme 😍"
+
+#: admin/class-whatsappme-admin.php:639
+msgid "If you need help, please check the <a href=\"%s\" rel=\"external\" target=\"_blank\">plugin support forum</a>."
+msgstr "Si necesitas ayuda consulta el <a href=\"%s\" rel=\"external\" target=\"_blank\">foro de soporte del plugin</a>."
+
+#: admin/class-whatsappme-admin.php:636
+msgid "Support and Help"
+msgstr "Ayuda y soporte"
+
+#: admin/class-whatsappme-admin.php:627
+msgid "Page Title"
+msgstr "Título de página"
+
+#: admin/class-whatsappme-admin.php:619
+msgid "Styles and Variables"
+msgstr "Estilos y variables"
+
+#: admin/class-whatsappme-admin.php:481
+msgid "Add unlimited numbers with %s"
+msgstr "Añade números ilimitados con %s"
+
+#: admin/class-whatsappme-admin.php:872
+msgid "Show Help"
+msgstr "Ver ayuda"
+
+#: admin/class-whatsappme-admin.php:623
+msgid "You can use dynamic variables that will be replaced by the values of the page the user visits:"
+msgstr "Puedes usar variables dinámicas que serán reemplazadas por los valores de la página que visita el usuario:"
+
+#: admin/class-whatsappme-admin.php:803 admin/class-whatsappme-admin.php:871
+msgid "You can use vars"
+msgstr "Puedes usar las variables"
+
+#. Description of the plugin
+msgid "Connect a WordPress chat with WhatsApp. The best solution for marketing and support. Stop losing customers and increase your sales."
+msgstr "Conecta un chat de WordPress con WhatsApp. La mejor solución para marketing y soporte. Deja de perder clientes y aumenta tus ventas."
+
+#: admin/class-whatsappme-admin.php:525
+msgid "Open <em>WhatsApp Web</em> directly on desktop"
+msgstr "Abrir directamente <em>WhatsApp Web</em> en el escritorio"
+
+#: admin/class-whatsappme-admin.php:519
+msgid "Time since the page is opened until the WhatsApp button is displayed"
+msgstr "Tiempo desde que se abre la página hasta que se muestra el botón de WhatsApp"
+
+#: admin/class-whatsappme-admin.php:518
+msgid "seconds"
+msgstr "segundos"
+
+#: admin/class-whatsappme-admin.php:430
+msgid "Advanced Visibility Settings"
+msgstr "Ajustes avanzados de visibilidad"
+
+#: admin/class-whatsappme-admin.php:422
+msgid "Chat Window"
+msgstr "Ventana de chat"
+
+#: admin/class-whatsappme-admin.php:418
+msgid "Set the contact number and where you want the WhatsApp button to be displayed."
+msgstr "Establece el número de contacto y dónde quieres que se muestre el botón de WhatsApp."
+
+#: admin/class-whatsappme-admin.php:417
+msgid "Button"
+msgstr "Botón"
+
+#: admin/class-whatsappme-admin.php:250
+msgid "Chat Delay"
+msgstr "Retardo del chat"
+
+#: admin/class-whatsappme-admin.php:245 admin/class-whatsappme-admin.php:523
+msgid "WhatsApp Web"
+msgstr "WhatsApp Web"
+
+#: admin/class-whatsappme-admin.php:244
+msgid "Button Delay"
+msgstr "Retardo del botón"
+
+#: admin/class-whatsappme-admin.php:555
+msgid "Display a notification balloon instead of opening the Chat Window for a \"less intrusive\" mode"
+msgstr "Mostrar un globo de aviso en lugar de abrir la ventana de chat para un modo \"menos intrusivo\""
+
+#: admin/class-whatsappme-admin.php:812
+msgid "Default visibility"
+msgstr "Visibilidad por defecto"
+
+#: admin/class-whatsappme-admin.php:470
+msgid "Inherit"
+msgstr "Heredar"
+
+#: admin/class-whatsappme-admin.php:468 admin/class-whatsappme-admin.php:590
+#: admin/class-whatsappme-admin.php:810
+msgid "Hide"
+msgstr "Ocultar"
+
+#: admin/class-whatsappme-admin.php:466 admin/class-whatsappme-admin.php:588
+#: admin/class-whatsappme-admin.php:808
+msgid "Show"
+msgstr "Mostrar"
+
+#: admin/class-whatsappme-admin.php:432
+msgid "Restore default visibility"
+msgstr "Restaurar visibilidad por defecto"
+
+#: admin/class-whatsappme-admin.php:431
+msgid "From here you can configure on which pages the WhatsApp button will be visible."
+msgstr "Aquí puedes configurar en qué páginas será visible el botón de WhatsApp."
+
+#: admin/class-whatsappme-admin.php:99
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: admin/class-whatsappme-admin.php:98
+msgid "General"
+msgstr "General"
+
+#: admin/class-whatsappme-admin.php:440
+msgid "Custom Post Types"
+msgstr "Tipos de contenido personalizados"
+
+#: admin/class-whatsappme-wooadmin.php:131
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: admin/class-whatsappme-wooadmin.php:130
+msgid "Checkout"
+msgstr "Finalizar pago"
+
+#: admin/class-whatsappme-wooadmin.php:129
+msgid "Cart"
+msgstr "Carrito"
+
+#: admin/class-whatsappme-wooadmin.php:128
+msgid "Product Page"
+msgstr "Página de producto"
+
+#: admin/class-whatsappme-wooadmin.php:127
+msgid "Shop"
+msgstr "Tienda"
+
+#: admin/class-whatsappme-admin.php:274
+msgid "Post"
+msgstr "Entrada"
+
+#: admin/class-whatsappme-admin.php:273
+msgid "Page"
+msgstr "Página"
+
+#: admin/class-whatsappme-admin.php:272
+msgid "Singular"
+msgstr "Simple"
+
+#: admin/class-whatsappme-admin.php:271
+msgid "Author Archives"
+msgstr "Archivos de autor"
+
+#: admin/class-whatsappme-admin.php:270
+msgid "Date Archives"
+msgstr "Archivos por fecha"
+
+#: admin/class-whatsappme-admin.php:269
+msgid "Archives"
+msgstr "Archivo"
+
+#: admin/class-whatsappme-admin.php:268
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: admin/class-whatsappme-admin.php:267
+msgid "404 Page"
+msgstr "Página 404"
+
+#: admin/class-whatsappme-admin.php:266
+msgid "Blog Page"
+msgstr "Página del blog"
+
+#: admin/class-whatsappme-admin.php:265
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#: admin/class-whatsappme-admin.php:260
+msgid "Global"
+msgstr "Global"
+
+#. Plugin URI of the plugin
+msgid "https://wame.chat"
+msgstr "https://wame.chat"
+
+#: admin/class-whatsappme-admin.php:239 admin/class-whatsappme-admin.php:800
+msgid "Message"
+msgstr "Mensaje"
+
+#: admin/class-whatsappme-admin.php:529
+msgid ""
+"Hello 👋\n"
+"Can we help you?"
+msgstr ""
+"Hola 👋\n"
+"¿En qué podemos ayudarte?"
+
+#: admin/class-whatsappme-admin.php:538
+msgid "Hi *{SITE}*! I need more info about {TITLE} {URL}"
+msgstr "Hola *{SITE}*. Necesito más información sobre {TITLE} {URL}"
+
+#: admin/class-whatsappme-admin.php:495
+msgid "Left"
+msgstr "Izquierda"
+
+#: admin/class-whatsappme-admin.php:497
+msgid "Right"
+msgstr "Derecha"
+
+#: admin/class-whatsappme-admin.php:622
+msgid "You can use formatting styles like in WhatsApp: _<em>italic</em>_ *<strong>bold</strong>* ~<del>strikethrough</del>~."
+msgstr "Puedes usar estilos de formato como en WhatsApp: _<em>cursiva</em>_ *<strong>negrita</strong>* ~<del>tachado</del>~."
+
+#: admin/class-whatsappme-admin.php:241 admin/class-whatsappme-admin.php:493
+msgid "Position on Screen"
+msgstr "Posición en pantalla"
+
+#. Author URI of the plugin
+msgid "https://crea.me"
+msgstr "https://crea.me"
+
+#. Author of the plugin
+msgid "Creame"
+msgstr "Creame"
+
+#: admin/class-whatsappme-admin.php:670
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/class-whatsappme-admin.php:489
+msgid "Only display the button on mobile devices"
+msgstr "Solo mostrar el botón en móviles"
+
+#: admin/class-whatsappme-admin.php:371
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+#: admin/class-whatsappme-admin.php:238 admin/class-whatsappme-admin.php:792
+msgid "Telephone"
+msgstr "Teléfono"
+
+#: admin/class-whatsappme-admin.php:479
+msgid "Contact phone number <strong>(the button will not be shown if it's empty)</strong>"
+msgstr "Número de teléfono de contacto <strong>(el botón no se mostrará si está vacío)</strong>"
+
+#: admin/class-whatsappme-admin.php:240 admin/class-whatsappme-admin.php:487
+msgid "Mobile Only"
+msgstr "Solo móvil"
+
+#: admin/class-whatsappme-admin.php:248 admin/class-whatsappme-admin.php:796
+msgid "Call to Action"
+msgstr "Llamada a la acción"

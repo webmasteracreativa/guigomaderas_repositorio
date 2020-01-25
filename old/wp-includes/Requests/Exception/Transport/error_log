@@ -1,0 +1,2 @@
+[21-Jul-2018 08:27:32 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/guigomaderas/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[02-May-2019 02:20:38 America/Chicago] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/guigomaderas/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

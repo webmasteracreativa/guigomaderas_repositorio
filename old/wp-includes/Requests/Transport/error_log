@@ -1,0 +1,7 @@
+[20-Jul-2018 17:24:23 America/Chicago] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/guigomaderas/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[10-Aug-2018 21:33:31 America/Chicago] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/guigomaderas/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[10-Aug-2018 21:33:41 America/Chicago] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/guigomaderas/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15
+[26-Sep-2018 07:55:40 America/Chicago] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/guigomaderas/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[26-Sep-2018 11:24:40 America/Chicago] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/guigomaderas/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15
+[19-Apr-2019 13:58:56 America/Chicago] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/guigomaderas/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[20-Apr-2019 00:18:50 America/Chicago] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/guigomaderas/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15
