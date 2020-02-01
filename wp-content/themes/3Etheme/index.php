@@ -310,7 +310,7 @@
             </div>
             <div class="data-contact montserrat-font d-flex flex-column justify-content-center">
                 <?php echo $contacto_contacto;?>
-                <p class="tel"><a href="tel:573045613670">57 3045613670</a></p>
+                <p class="tel"><a href="tel:573045613670">(+57) 304 561 36 70</a></p>
             </div>
         </div>
     </div>
